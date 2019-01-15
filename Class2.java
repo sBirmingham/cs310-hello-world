@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Sean Birmingham
  */
 
 public class Class2 {
